@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table,tr,th,td{
+            border: 1px solid orange;
+            border-collapse: collapse;
+
+            width: 500px;
+        }
+    </style>
+</head>
+    <body style="background-color: orange;">
+        <h1 style="text-align: center;color: black;font-family: algerian;">CHILL-OUT CAFE</h1>
+            <center><img src="https://images.search.yahoo.com/images/view;_ylt=Awrjcy6MIsdmbpEskUKJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzlkZDAwNzJlNGU1MTRlNDcxMDkyY2MwZDc1YjUzOGM1BGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dtea%2Bcoffee%26type%3DE210US885G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D3&w=810&h=540&imgurl=coffeeaffection.com%2Fwp-content%2Fuploads%2F2022%2F02%2Fcoffee-vs-tea-comparison.jpeg&rurl=https%3A%2F%2Fcoffeeaffection.com%2Fcoffee-vs-tea%2F&size=91.8KB&p=tea+coffee&oid=9dd0072e4e514e471092cc0d75b538c5&fr2=piv-web&fr=mcafee&tt=Coffee+vs.+Tea%3A+Which+Drink+Is+Healthier%3F+Pros+%26+Cons+of+Each+Option+%7C+Coffee+Affection&b=0&ni=21&no=3&ts=&tab=organic&sigr=Z0c_UmOal6s3&sigb=n35S6x91M_8m&sigi=Pdy6iCJ9ybYW&sigt=MrLJtbnivXhP&.crumb=WwuF/t5Vk2L&fr=mcafee&fr2=piv-web&type=E210US885G0" style="height">
+            <h3 style="text-align: center;color: red;font-family: copperplate gothic light;">coffee </h3>
+            
+            <table style="margin-left: left: 530px;">
+                <tr style="background-color:white;">
+                    <th></th>
+                    <th style="text-align: center;">Hot</th>
+                    <th style="text-align: center;">Iced</th>
+                    <th style="text-align: center;">Blended</th>
+                </tr>
+                <tr style="background-color:orange;">
+                    <td style="text-align: center;">Cappacino</td>
+                    <td style="text-align: center;">$15</td>
+                    <td style="text-align: center;">$18</td>
+                    <td style="text-align: center;">$20</td>
+                </tr>
+                <tr style="background-color:white ;">
+                    <td style="text-align:center;">Fresh latte</td>
+                    <td style="text-align:center;">$10</td>
+                    <td style="text-align:center;">$18</td>
+                    <td style="text-align:center;">$20</td>
+                </tr>
+                <tr style="background-color: orange;">
+                    <td style="text-align: center;">Mocha</td>
+                    <td style="text-align: center;">$15</td>
+                    <td style="text-align: center;">$18</td>
+                    <td></td>
+                </tr>
+                <tr style="background-color:white;">
+                    <td style="text-align: center;">Expresso</td>
+                    <td style="text-align: center;">$10</td>
+                    <td style="text-align: center;">$15</td>
+                    <td></td>
+                </tr> 
+                <tr style="background color: orange">
+                    <td style="text-align:center">Bubble tea</td>
+                    <td style="text-align:center">$8</td>
+                    <td style="text-align:center">$12</td>
+                    <td style="text-align:center">$10</td>
+                </tr>
+            </table>
+            <h3 style="text-align: center;color: red;font-family: copperplate gothic light;">Tea Menu</h3>
+            <table style="margin-left: 530px;">
+                  <tr style="background-color: white;">
+                  <th></th>
+                  <th style="text-align: center;">Hot</th>
+                  <th style="text-align: center;">Iced</th>
+                  <th style="text-align: center;">Add</th>
+                </tr>
+                <tr style="background-color: orange;">
+                   <td style="text-algin: center;">Pure white milk</td>
+                   <td style="text-algin: center;">$5</td>
+                   <td style="text-algin: center;">$10</td>
+                   <td style="text-algin: center;">1</td>
+                </tr>
+                <tr style="background-color: white;">
+                    <td style="text-align: center;">Taiwan Tea</td>
+                    <td style="text-align: center;">$4</td>
+                    <td style="text-align: center;">$10</td>
+                    <td style="text-align: center;">$4</td>
+                </tr>
+
+            
+            
+    
+                    
+                         
