@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Complaint Registration Portals</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .box {
+            background: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Online Complaint Registration Portals for Colleges</h1>
+
+<div class="box">
+    <h2>UGC e-Samadhaan Portal</h2>
+    <p>Used for complaints related to UGC regulation violations, faculty issues, and unfair practices.</p>
+    <p><b>Helpline:</b> 1800-111-656</p>
+</div>
+
+<div class="box">
+    <h2>National Consumer Helpline</h2>
+    <p>Helps students report unfair fees and deficiency in educational services.</p>
+    <p><b>Helpline:</b> 1800-114-000 / 14404</p>
+</div>
+
+<div class="box">
+    <h2>Anti-Ragging Grievance Cell</h2>
+    <p>For reporting ragging incidents in educational institutions.</p>
+    <p><b>Helpline:</b> 1800-180-5522</p>
+</div>
+
+<div class="box">
+    <h2>Conclusion</h2>
+    <p>These portals help protect students' rights and ensure transparency.</p>
+</div>
+
+</body>
+</html>
